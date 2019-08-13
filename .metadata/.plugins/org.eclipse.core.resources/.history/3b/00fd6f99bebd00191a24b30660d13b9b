@@ -1,0 +1,8 @@
+package com.example.demo.models;
+
+public class CreditCardDetails {
+
+	private String cardNumber;
+	private int cvv;
+	private String expiryDate;
+}
